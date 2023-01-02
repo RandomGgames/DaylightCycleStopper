@@ -1,4 +1,4 @@
-scoreboard objectives remove DaylightCycleStopper
+scoreboard objectives remove EmptyServerPause
 
-datapack disable "file/DaylightCycleStopper"
-datapack disable "file/DaylightCycleStopper.zip"
+datapack disable "file/EmptyServerPause"
+datapack disable "file/EmptyServerPause.zip"
