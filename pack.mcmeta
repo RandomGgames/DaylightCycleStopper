@@ -1,6 +1,6 @@
 {
 	"pack": {
-		"pack_format": 10,
-		"description": "Stops the time, weather, and randomTickSpeed when no player is online. Created by RandomGgames."
+		"pack_format": 48,
+		"description": "Stops the daylight cycle, weather cycle, and randomTickSpeed when no players are online. Created by RandomGgames."
 	}
 }
